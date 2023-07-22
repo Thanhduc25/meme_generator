@@ -1,2 +1,0 @@
-# meme_generator
-SecondProjectPythonIntermediate
